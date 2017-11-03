@@ -1,0 +1,83 @@
+header > h1 {
+	text-align: center;
+}
+
+div.bloques {
+	border: 1pt solid #cbccc1;
+	padding: 5px;
+	margin: 10px;
+	border-radius: 15px 15px 15px 15px;
+	-moz-border-radius: 15px 15px 15px 15px;
+	-webkit-border-radius: 15px 15px 15px 15px;
+}
+
+div.datos {
+	text-align: center;
+}
+
+
+h3.institucion {
+	font-weight: bold;
+}
+
+img.perfil {
+	margin-right: 10px;
+	width: 100%;
+}
+
+img.educacion {
+	width: 100%;
+}
+
+p.anio {
+	font-style: italic;
+}
+
+div.habilidad {
+	border-radius: 25px;
+	background-color: #cecece;
+	margin-left: 10px;
+	margin-right: 10px;
+	box-shadow: 2px 2px grey;
+}
+
+div.descripcion {
+	margin-left: 10px;
+}
+
+div.valor {
+	padding-left: 9px;
+	padding-right: 9px;
+	border-radius: 25px;
+	background-color: blue;
+	color: white;
+}
+
+p.tamano {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+div.separador {
+	border : 1pt solid black;
+}
+
+section {
+	margin: 0 auto;
+}
+
+.habilidad {
+  background-color: #e0e0e0;
+  display: inline-block;
+  padding: 15px 20px 15px 0;
+  border-radius: 5000000px;
+  box-shadow: 1px 1px 5px grey;
+  margin: 0 10px;
+}
+
+.habilidad span {
+  background-color: #0d47a1;
+  border-radius: 50%;
+  color: white;
+  padding: 15px;
+}

@@ -1,0 +1,56 @@
+h1.titulo-principal {
+	font-family: 'Anton', sans-serif;
+	color: #414239;
+	font-size: 4em;
+}
+
+h2.titulo-pelicula {
+	font-family: 'Lobster', cursive;
+	color: #9e0947;
+	font-size: 2.5em;
+}
+
+div.bloques {
+	border-style: dotted;
+	border-width: 1pt;
+	border-color: #d7d8cb;
+	margin: 10px;
+}
+
+img.poster {
+	margin-right: 10px;
+	width: 100%;
+}
+
+img:hover {
+	opacity: 0.8;
+}
+
+iframe.trailer {
+	width: 100%;
+}
+
+p {
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+h3.sinopsis-reparto {
+	color: #ce105c;
+	font-size: 1em;
+}
+
+p.sinopsis {
+	text-align: justify;
+}
+
+p[famoso="principal"] {
+	font-weight: bold;
+}
+
+p[famoso="secundario"] {
+	font-style: italic;
+}
+
+li {
+	list-style-image: url("https://goo.gl/6hPSSH");
+}
